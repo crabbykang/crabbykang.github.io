@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://orangeville.cafe24.com/files/MyArena_1.1.0.489.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://lh3.ggpht.com/jvXmxEgvdTVWV8Kn2DFUxXt9-_dDv5uQvm6xJRJeaqYPJrDnq5SM9PAvAUDRD4EbdzE=w300-rw</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://lh3.ggpht.com/jvXmxEgvdTVWV8Kn2DFUxXt9-_dDv5uQvm6xJRJeaqYPJrDnq5SM9PAvAUDRD4EbdzE=w300-rw</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.team-orangeville.MyArena</string>
+				<key>bundle-version</key>
+				<string>1.1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>MyArena</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
